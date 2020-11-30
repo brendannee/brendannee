@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Brendan 👋
 
-<!--
-**brendannee/brendannee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an entrepreneur, developer and transportation planner/engineer based in San Francisco, CA.
 
-Here are some ideas to get you started:
+I'm a transportation geek: I own a 1980s MUNI bendy-bus and my high school and college jobs were at a bike store, on the deck of a passenger steamboat, and working the ramp at MSP for a regional airline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my professional life, I run [BlinkTag Inc](https://blinktag.com) which works at the intersection of technology, transportation and city planning.
+
+📧 Email: [brendan@blinktag.com](mailto:brendan@blinktag.com)
+
+🖥 Personal Website: [bn.ee](https://bn.ee)
+
+🏢 Company Website: [blinktag.com](https://blinktag.com)
